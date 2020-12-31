@@ -2,7 +2,7 @@
 **inbdni/inbdni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🌱 I'm a student of "42Seoul" since 2020.
+✨ I'm a student of "42Seoul" since 2020.
 
 [![jimbaek's 42 stats](https://badge42.herokuapp.com/api/stats/jimbaek)](https://github.com/JaeSeoKim/badge42)
 
