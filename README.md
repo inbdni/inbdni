@@ -4,7 +4,7 @@
 
 🌱 I'm a student of "42Seoul" since 2020.
 
-[![jimbaek's 42 stats](https://badge42.herokuapp.com/api/stats/jimbaek?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![jimbaek's 42 stats](https://badge42.herokuapp.com/api/stats/jimbaek)](https://github.com/JaeSeoKim/badge42)
 
 <!-- C Piscine
 [![jimbaek's 42 stats](https://badge42.herokuapp.com/api/stats/jimbaek?privacyEmail=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
