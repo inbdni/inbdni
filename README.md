@@ -8,7 +8,9 @@
   <img src="https://img1.daumcdn.net/thumb/C428x428/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F4323528%2Fattach%2F97e1b185657147d0a3a08ca5ad121618" width=150px />
 </a>
 
-<br><br>
+▴ Click!!
+
+<br>
 
 ### ✨ 42 Seoul
 
