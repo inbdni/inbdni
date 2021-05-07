@@ -8,6 +8,8 @@
 [![jimbaek's 42 stats](https://badge42.herokuapp.com/api/stats/jimbaek?privacyEmail=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 -->
 
+<br>
+
 ### 🌱 Spring Study
 
 1. [인프런] 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
@@ -19,7 +21,7 @@
 
 1. [노마드코더] ReactJS로 영화 웹 서비스 만들기 [Repo](https://github.com/inbdni/movie_app)
 
-
+<br>
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
