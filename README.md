@@ -5,7 +5,7 @@
 ### ✨ Blog
 
 <a href="https://peachh.tistory.com/" target="_black">
-  <img src="https://tistory1.daumcdn.net/tistory/4323528/attach/fb347036bd5449ccaad2b87da8e253b9" width=150px />
+  <img src="https://img1.daumcdn.net/thumb/C428x428/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F4323528%2Fattach%2F97e1b185657147d0a3a08ca5ad121618" width=150px />
 </a>
 
 <br><br>
