@@ -39,6 +39,7 @@
 ### 🌱 React Study
 
 1. [노마드코더] ReactJS로 영화 웹 서비스 만들기 [Link](https://github.com/inbdni/movie_app)
+2. [노마드코더] 초보를 위한 React JS [Link](https://github.com/inbdni/nomflix)
 
 <br>
 
