@@ -5,12 +5,10 @@
 ### ✨ Blog
 
 <a href="https://peachh.tistory.com/" target="_black">
-  <img src="https://img1.daumcdn.net/thumb/C428x428/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F4323528%2Fattach%2F97e1b185657147d0a3a08ca5ad121618" width=150px />
+  <img src="https://user-images.githubusercontent.com/51371747/117712279-15819700-b20f-11eb-8df3-efa610467a9e.jpg" width=170px />
 </a>
 
-▴ Click!!
-
-<br>
+<br><br>
 
 ### ✨ 42 Seoul
 
