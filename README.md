@@ -10,16 +10,6 @@
 
 <br><br>
 
-### ✨ 42 Seoul
-
-[![jimbaek's 42 stats](https://badge42.herokuapp.com/api/stats/jimbaek)](https://github.com/JaeSeoKim/badge42)
-
-<!-- C Piscine
-[![jimbaek's 42 stats](https://badge42.herokuapp.com/api/stats/jimbaek?privacyEmail=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
--->
-
-<br>
-
 ### 🗝 Coding Test
 
 * 프로그래머스 [Link](https://github.com/inbdni/Programmers)
