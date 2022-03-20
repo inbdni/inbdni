@@ -5,17 +5,10 @@
 ### ✨ Blog
 
 <a href="https://peachh.tistory.com/" target="_black">
-  <img src="https://user-images.githubusercontent.com/51371747/117712279-15819700-b20f-11eb-8df3-efa610467a9e.jpg" width=170px />
+  <img width="100px" src="https://user-images.githubusercontent.com/51371747/117712279-15819700-b20f-11eb-8df3-efa610467a9e.jpg" width=170px />
 </a>
 
 <br><br>
-
-### 🗝 Coding Test
-
-* 프로그래머스 [Link](https://github.com/inbdni/Programmers)
-* 백준 [Link](https://github.com/inbdni/Baekjoon)
-
-<br>
 
 ### 🌱 Spring Study
 
@@ -28,6 +21,13 @@
 
 1. [노마드코더] ReactJS로 영화 웹 서비스 만들기 [Link](https://github.com/inbdni/movie_app)
 2. [노마드코더] 초보를 위한 React JS [Link](https://github.com/inbdni/nomflix)
+
+<br>
+
+### 🗝 Coding Test
+
+* 프로그래머스 [Link](https://github.com/inbdni/Programmers)
+* 백준 [Link](https://github.com/inbdni/Baekjoon)
 
 <br>
 
